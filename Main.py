@@ -6,6 +6,13 @@ class Window(QWidget):
     def __init__(self):
         QWidget.__init__(self)
 
+        #
+        #
+        #
+        # Place-holder GUI for future menus
+        #
+        #
+        #
         self.WIDTH = 1600
         self.HEIGHT = 800
         self.initPosX = 160
